@@ -37,20 +37,20 @@ body {
 	border-bottom: 1px #ddd solid;
 }
 
-// #authors {
-// 	img {
-// 		margin-top: -50px;
-// 	}
+#authors {
+	img {
+		margin-top: -50px;
+	}
 
-// 	.card:hover {
-// 		background: $primary;
-// 		color: #fff;
-// 	}
+	.card:hover {
+		background: $primary;
+		color: #fff;
+	}
 
-// 	.fab {
-// 		color: #fff;
-// 	}
-// }
+	.fab {
+		color: #fff;
+	}
+}
 
 @media (max-width: 768px) {
 	#showcase {
